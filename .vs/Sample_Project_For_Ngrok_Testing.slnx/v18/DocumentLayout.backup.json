@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|e:\\other_language_project\\node_project\\sample_project_for_ngrok_testing\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|e:\\other_language_project\\node_project\\sample_project_for_ngrok_testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|e:\\other_language_project\\node_project\\sample_project_for_ngrok_testing\\pages\\greetings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|solutionrelative:pages\\greetings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|e:\\other_language_project\\node_project\\sample_project_for_ngrok_testing\\pages\\greetings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C644F6-CAC2-4C6A-96FB-508F0B1ADA20}|Sample_Project_For_Ngrok_Testing.csproj|solutionrelative:pages\\greetings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:45:09.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T11:26:25.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Greetings.cshtml",
+              "DocumentMoniker": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Pages\\Greetings.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Greetings.cshtml",
+              "ToolTip": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Pages\\Greetings.cshtml",
+              "RelativeToolTip": "Pages\\Greetings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T11:25:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Greetings.cshtml.cs",
+              "DocumentMoniker": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Pages\\Greetings.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Greetings.cshtml.cs",
+              "ToolTip": "E:\\Other_Language_Project\\Node_Project\\Sample_Project_For_Ngrok_Testing\\Pages\\Greetings.cshtml.cs",
+              "RelativeToolTip": "Pages\\Greetings.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:25:28.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
